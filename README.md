@@ -2,11 +2,8 @@
 
 
 - <h1>👋 Hi there, I’m Aaashutosh</h1> 
--    👀 I’m interested in tech & hack...
--    🌱 I’m currently learning programming and research... 
--    💞️ If you neeed a tech guy then you can collaborate with me ...
--    📫 You can mail me  if you want to reach me  ...
-
+-  <p>  👀 I’m loking to learn .... </p>
+  
 <!---
 anshobrii/anshobrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
