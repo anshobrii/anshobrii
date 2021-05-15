@@ -1,8 +1,7 @@
 
 
 
-- <h1>👋 Hi there, I’m Aaashutosh</h1> 
--  <p>  👀 I’m trying to learn .... </p>
+-  # 👋 Hi there
   
 <!---
 anshobrii/anshobrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
