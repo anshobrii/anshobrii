@@ -1,9 +1,9 @@
 
  <!-- You came here okey !  Now Feel free to make your own don't use my data -->
- <a href="https://twitter.com/imaashutosh_">
+ <a href="https://twitter.com/anshobrii">
   <img align="left" alt="Aashutosh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/imaashutosh/">
+<a href="https://www.linkedin.com/in/anshobrii/">
   <img align="left" alt="Aashutosh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
