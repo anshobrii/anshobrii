@@ -8,7 +8,7 @@
 </a>
 
 <div align="center">
-  <br>
+  <br> 
   
 <h3> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br>I'm Aashutosh <br> CS Student, Web Developer, <br> App Designer  <br>Creator and Learner </h3>
 
